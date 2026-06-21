@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.csproj.user
+dist/
+build_and_deploy.sh
+lib/
