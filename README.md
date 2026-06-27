@@ -4,6 +4,16 @@ A [MelonLoader](https://melonloader.co/) mod for **The Long Dark** that disables
 first-person carcass **harvesting and quartering** animation and falls back to the game's
 native progress circle.
 
+## Screenshots
+
+Harvesting with the game's native progress circle — no first-person animation:
+
+![Harvesting with the native progress circle](Usage.png)
+
+The optional ModSettings toggle:
+
+![ModSettings toggle](Settings.png)
+
 ## Install
 
 1. Install MelonLoader for The Long Dark.
